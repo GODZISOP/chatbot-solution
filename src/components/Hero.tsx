@@ -32,15 +32,7 @@ const Hero = () => {
                 <ArrowRight className="w-5 h-5" />
               </a>
               
-              <div className="flex flex-col sm:flex-row gap-2">
-                <a
-                  href="tel:+447492989721"
-                  className="border-2 border-purple-600 text-purple-600 px-6 py-4 rounded-full hover:bg-purple-50 transition-all duration-200 flex items-center justify-center space-x-2 text-lg font-semibold"
-                >
-                  <Phone className="w-4 h-4" />
-                  <span>Call Now</span>
-                </a>
-              </div>
+            
             </div>
             
             <div className="grid grid-cols-3 gap-8 pt-8">
@@ -100,10 +92,7 @@ const Hero = () => {
               <div className="mt-4 bg-white rounded-lg p-4 shadow-md text-center">
                 <div className="text-sm font-semibold text-gray-900 mb-2">Contact Us Directly:</div>
                 <div className="flex flex-col space-y-2">
-                  <a href="tel:+447492989721" className="text-purple-600 font-medium flex items-center justify-center space-x-2">
-                    <Phone className="w-4 h-4" />
-                    <span>+44 7492 989721</span>
-                  </a>
+                  
                   <a href="mailto:appointmentstudio@gmail.com" className="text-purple-600 font-medium flex items-center justify-center space-x-2">
                     <Mail className="w-4 h-4" />
                     <span>appointmentstudio@gmail.com</span>

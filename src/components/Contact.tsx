@@ -45,7 +45,6 @@ const Contact = () => {
                 <div className="border-t border-gray-200 pt-6">
                   <div className="grid grid-cols-1 gap-6">
                     <div className="flex items-center space-x-3">
-                      <Phone className="w-5 h-5 text-purple-600" />
                     
                     </div>
                     
