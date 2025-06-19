@@ -158,12 +158,7 @@ const Pricing = () => {
               Contact us directly to discuss your specific requirements and get a personalized quote.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center items-center">
-              <a
-                href="tel:+447492989721"
-                className="bg-gradient-to-r from-purple-600 to-purple-700 text-white px-6 py-3 rounded-full hover:from-purple-700 hover:to-purple-800 transition-all duration-200 inline-flex items-center space-x-2 shadow-lg hover:shadow-xl font-semibold"
-              >
-                <span>📞 +44 7492 989721</span>
-              </a>
+             
               <a
                 href="mailto:appointmentstudio@gmail.com"
                 className="border-2 border-purple-600 text-purple-600 px-6 py-3 rounded-full hover:bg-purple-50 transition-all duration-200 inline-flex items-center space-x-2 font-semibold"
