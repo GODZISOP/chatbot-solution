@@ -46,12 +46,7 @@ const Contact = () => {
                   <div className="grid grid-cols-1 gap-6">
                     <div className="flex items-center space-x-3">
                       <Phone className="w-5 h-5 text-purple-600" />
-                      <div>
-                        <div className="font-medium text-gray-900">Phone</div>
-                        <a href="tel:+447492989721" className="text-purple-600 hover:text-purple-700 font-medium">
-                          +44 7492 989721
-                        </a>
-                      </div>
+                    
                     </div>
                     
                     <div className="flex items-center space-x-3">
