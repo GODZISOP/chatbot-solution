@@ -9,7 +9,7 @@ const Testimonials = () => {
       company: 'TechStart Inc.',
       content: 'Appointment Studio transformed our lead generation process. We went from 10 leads per month to over 150, with much higher quality prospects. The chatbot feels so natural that customers love interacting with it.',
       rating: 5,
-      avatar: 'https://images.pexels.com/photos/3785077/pexels-photo-3785077.jpeg?auto=compress&cs=tinysrgb&w=150'
+      avatar: 'https://images.squarespace-cdn.com/content/v1/5e24adf5c58616310609cfe5/d890265d-f3c2-4c07-bde0-0e813b346c6a/Sarah+LaBrie+Headshot+1+%282%29.JPG'
     },
     {
       name: 'Michael Chen',
